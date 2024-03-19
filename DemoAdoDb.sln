@@ -5,6 +5,8 @@ VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DemoAdoDb", "DemoAdoDb.sqlproj", "{74B62410-E106-4B0B-9105-FD0749761AFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoAdoConsole", "..\DemoAdoConsole\DemoAdoConsole.csproj", "{0A8FC4A3-791A-4CF0-A6BB-7DDC8E220C07}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{74B62410-E106-4B0B-9105-FD0749761AFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74B62410-E106-4B0B-9105-FD0749761AFA}.Release|Any CPU.Build.0 = Release|Any CPU
 		{74B62410-E106-4B0B-9105-FD0749761AFA}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{0A8FC4A3-791A-4CF0-A6BB-7DDC8E220C07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A8FC4A3-791A-4CF0-A6BB-7DDC8E220C07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A8FC4A3-791A-4CF0-A6BB-7DDC8E220C07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A8FC4A3-791A-4CF0-A6BB-7DDC8E220C07}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
